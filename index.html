@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AniDark</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <div class="sidebar">
+    <button onclick="filterByGenre('action')">Action</button>
+    <button onclick="filterByGenre('adventure')">Adventure</button>
+    <button onclick="filterByGenre('fantasy')">Fantasy</button>
+    <button onclick="filterByGenre('horror')">Horror</button>
+  </div>
+  <div class="glass">
+    <h1 class="title">AniDark</h1>
+
+    <div class="search-bar">
+      <input id="searchInput" class="search-input" placeholder="Search for anime..." />
+      <button onclick="filterAnime()" class="search-button">Search</button>
+    </div>
+
+    <div class="anime-grid" id="animeGrid">
+      
+    </div>
+  </div>
+
+  <template id="animeCard">
+    <div class="anime-card">
+      <img class="anime-image" />
+      <h2 class="anime-title"></h2>
+      <p class="anime-rating"></p>
+      <p class="anime-description"></p>
+      <div class="button-row">
+        <button class="trailer-button">Трейлер</button>
+        <a class="watch-button" target="_blank">Смотреть</a>
+      </div>
+    </div>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>
