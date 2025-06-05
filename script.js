@@ -15,7 +15,8 @@
       description: "Humanity fights against man-eating giants.",
       trailer: "https://www.youtube.com/watch?v=MGRm4IzK1SQ",
       rating: 4.8,
-      genre: "adventure"
+      genre: "adventure",
+      watch: "Attack.html"
     },
     {
       title: "Demon Slayer",
@@ -31,7 +32,8 @@
       description: "A pirate adventure in search of treasure.",
       trailer: "https://www.youtube.com/watch?v=MCFkHWR1h1o",
       rating: 4.7,
-      genre: "adventure"
+      genre: "adventure",
+      watch: "OnePiece.html"
     },
     {
       title: "Death Note",
@@ -69,7 +71,7 @@
     },
     {
       title: "Tokyo Ghoul",
-      image: "https://cdn.discordapp.com/attachments/1368605380782854186/1370072484434546846/image.png?ex=681e2aef&is=681cd96f&hm=1ba93f68c881f0f7f8b85fddda130a7305511113a89ac16b4ce4e16eccbde90e&",
+      image: "https://static.hdrezka.ac/i/2021/11/15/b37aa8e5e014fwi79x48v.png",
       description: "A boy becomes half-ghoul and must survive in a world of monsters.",
       trailer: "https://www.youtube.com/watch?v=Kbb8zPQBmOw",
       rating: 4.8,

@@ -4,7 +4,7 @@ body {
       font-family: Arial, sans-serif;
       background: linear-gradient(to right, #000000, #1f1f1f);
       color: white;
-        background-image: url('https://kartinki.pics/pics/uploads/posts/2022-08/1659745736_1-kartinkin-net-p-tetrad-smerti-oboi-na-rabochii-stol-krasiv-1.jpg');
+        background-image: url('https://img1.akspic.ru/crops/9/3/3/9/1/119339/119339-anime-mifologia-attack_on_titan_2-art-napadenie_na_titan-1920x1080.jpg');
            background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -20,7 +20,7 @@ body {
     }
     .anime-header h1 {
       font-size: 36px;
-      color:#817f7e;
+      color:#b8521f;
     }
     .video-container {
       position: relative;
@@ -43,7 +43,7 @@ body {
     .description {
       font-size: 16px;
       line-height: 1.6;
-      color: #cccccc;
+      color:#fdfdfd;
       margin-top: 20px;
     }
    
@@ -51,14 +51,14 @@ body {
       display: inline-block;
       padding: 10px 20px;
       margin-top: 30px;
-      background: #817f7e;
+      background-color:#b8521f;
       color: rgb(255, 255, 255);
       border-radius: 5px;
       text-decoration: none;
         font-weight: bold;
     }
     .back-button:hover {
-      background:#817f7e;
+      background:#b8521f;
       
     }
  .next-button{
@@ -66,8 +66,8 @@ body {
   display: inline-block;
       padding: 10px 20px;
       margin-top: -90px;
-      margin-left: 779px;
-      background: #817f7e;
+    margin-left: 779px;
+      background:#b8521f;
       color: rgb(255, 255, 255);
       border-radius: 5px;
       text-decoration: none;
@@ -80,7 +80,7 @@ body {
       padding: 10px 20px;
       margin-top: -96px;
       margin-left: 733px;
-      background:#817f7e;
+      background: #bb3a12bd;
       color: rgb(255, 255, 255);
       border-radius: 5px;
       text-decoration: none;
