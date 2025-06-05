@@ -24,7 +24,8 @@
       description: "A boy battles demons to save his sister.",
       trailer:"https://www.youtube.com/watch?v=VQGCKyvzIM4",
       rating: 4.8,
-      genre: "action" 
+      genre: "action" ,
+      watch:"KRD.html"
     },
     {
       title: "One Piece",
